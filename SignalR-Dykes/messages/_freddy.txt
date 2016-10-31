@@ -1,0 +1,5 @@
+{"id":null,"name":"freddy","message":"hello","dateTime":"\/Date(1477638711918)\/"}
+{"id":null,"name":"freddy","message":"another one","dateTime":"\/Date(1477639532824)\/"}
+{"id":null,"name":"freddy","message":"and another one","dateTime":"\/Date(1477639546076)\/"}
+{"id":null,"name":"freddy","message":"more messges","dateTime":"\/Date(1477691658033)\/"}
+{"id":null,"name":"freddy","message":"hello again","dateTime":"\/Date(1477691671154)\/"}
