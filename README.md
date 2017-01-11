@@ -1,3 +1,3 @@
 # SignalRConvoSave
 
-Create group chat and serialize conversations for each person. 
+Create group chat and save conversations for each person to a text file. 
